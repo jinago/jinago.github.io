@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: single
 author: BCB
 title:  "oh my god"
