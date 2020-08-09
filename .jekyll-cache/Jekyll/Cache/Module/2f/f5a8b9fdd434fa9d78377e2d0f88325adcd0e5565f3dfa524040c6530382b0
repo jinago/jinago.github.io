@@ -1,4 +1,4 @@
-I")
+I"G
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -9,10 +9,16 @@
           Blog của CBK
           
         </a>
-        <ul class="visible-links"></ul>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/">Trang chủ</a>
+            </li><li class="masthead__menu-item">
+              <a href="/lap-trinh/">Lập trình</a>
+            </li><li class="masthead__menu-item">
+              <a href="/anh-ot/">Ảnh ọt</a>
+            </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
+          <span class="visually-hidden">Menu</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>

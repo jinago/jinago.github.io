@@ -1,9 +1,9 @@
-I"`<nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
+I"�<nav class="skip-links">
+  <h2 class="screen-reader-text">Đường dẫn tắt</h2>
   <ul>
-    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Nhảy tới thanh điều hướng</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Nhảy tới nội dung</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Nhảy tới chân trang</a></li>
   </ul>
 </nav>
 :ET
